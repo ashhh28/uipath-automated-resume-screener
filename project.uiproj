@@ -1,0 +1,6 @@
+{
+  "ProjectType": "Process",
+  "Name": "Automated Resume Screening",
+  "Description": null,
+  "MainFile": "Main.xaml"
+}
