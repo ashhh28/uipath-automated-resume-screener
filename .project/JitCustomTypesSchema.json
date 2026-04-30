@@ -1,0 +1,167 @@
+{
+  "ExportedBy": "StudioWeb",
+  "BundleHash": "UDE7vXIsm98XZkkTqI4lkG2Qwr88PDmZhNrk0ak",
+  "Version": "1.0.0.0",
+  "JitAssemblyCompilerCommands": [
+    {
+      "ProviderName": "CustomEntities",
+      "BundleOptions": {
+        "EntitiesBundle": {
+          "Types": {
+            "Resume_Screener_Input": {
+              "Name": "Resume_Screener_Input",
+              "Properties": [
+                {
+                  "Name": "ResumeText",
+                  "Type": {
+                    "ClrType": "System.String, System.Private.CoreLib"
+                  },
+                  "Attributes": {
+                    "Values": [
+                      {
+                        "Type": {
+                          "ClrType": "Newtonsoft.Json.JsonPropertyAttribute, Newtonsoft.Json"
+                        },
+                        "ConstructorArguments": [
+                          {
+                            "Value": "\"ResumeText\"",
+                            "Type": {
+                              "ClrType": "System.String, System.Private.CoreLib"
+                            }
+                          }
+                        ],
+                        "NamedArguments": []
+                      },
+                      {
+                        "Type": {
+                          "ClrType": "System.ComponentModel.DisplayNameAttribute, System.ComponentModel.Primitives"
+                        },
+                        "ConstructorArguments": [
+                          {
+                            "Value": "\"ResumeText\"",
+                            "Type": {
+                              "ClrType": "System.String, System.Private.CoreLib"
+                            }
+                          }
+                        ],
+                        "NamedArguments": []
+                      }
+                    ]
+                  }
+                }
+              ],
+              "BaseType": null
+            }
+          },
+          "Version": 1
+        },
+        "Hash": "1991531532",
+        "BundleName": "Resume_Screener_Input"
+      },
+      "EntityAssemblyKey": {
+        "Name": "UiPath.System.Activities.ViewModels.SWEntities.Resume_Screener_Input",
+        "Hash": "MTk5MTUzMTUzMg",
+        "AssemblyName": "Resume_Screener_Inpu.KEGtM3XCjTE1KhkcC2UKgGi1"
+      }
+    },
+    {
+      "ProviderName": "CustomEntities",
+      "BundleOptions": {
+        "EntitiesBundle": {
+          "Types": {
+            "Resume_Screener_Output": {
+              "Name": "Resume_Screener_Output",
+              "Properties": [
+                {
+                  "Name": "Summary",
+                  "Type": {
+                    "ClrType": "System.String, System.Private.CoreLib"
+                  },
+                  "Attributes": {
+                    "Values": [
+                      {
+                        "Type": {
+                          "ClrType": "Newtonsoft.Json.JsonPropertyAttribute, Newtonsoft.Json"
+                        },
+                        "ConstructorArguments": [
+                          {
+                            "Value": "\"Summary\"",
+                            "Type": {
+                              "ClrType": "System.String, System.Private.CoreLib"
+                            }
+                          }
+                        ],
+                        "NamedArguments": []
+                      },
+                      {
+                        "Type": {
+                          "ClrType": "System.ComponentModel.DisplayNameAttribute, System.ComponentModel.Primitives"
+                        },
+                        "ConstructorArguments": [
+                          {
+                            "Value": "\"Summary\"",
+                            "Type": {
+                              "ClrType": "System.String, System.Private.CoreLib"
+                            }
+                          }
+                        ],
+                        "NamedArguments": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Name": "Recommendation",
+                  "Type": {
+                    "ClrType": "System.String, System.Private.CoreLib"
+                  },
+                  "Attributes": {
+                    "Values": [
+                      {
+                        "Type": {
+                          "ClrType": "Newtonsoft.Json.JsonPropertyAttribute, Newtonsoft.Json"
+                        },
+                        "ConstructorArguments": [
+                          {
+                            "Value": "\"Recommendation\"",
+                            "Type": {
+                              "ClrType": "System.String, System.Private.CoreLib"
+                            }
+                          }
+                        ],
+                        "NamedArguments": []
+                      },
+                      {
+                        "Type": {
+                          "ClrType": "System.ComponentModel.DisplayNameAttribute, System.ComponentModel.Primitives"
+                        },
+                        "ConstructorArguments": [
+                          {
+                            "Value": "\"Recommendation\"",
+                            "Type": {
+                              "ClrType": "System.String, System.Private.CoreLib"
+                            }
+                          }
+                        ],
+                        "NamedArguments": []
+                      }
+                    ]
+                  }
+                }
+              ],
+              "BaseType": null
+            }
+          },
+          "Version": 1
+        },
+        "Hash": "-983622673",
+        "BundleName": "Resume_Screener_Output"
+      },
+      "EntityAssemblyKey": {
+        "Name": "UiPath.System.Activities.ViewModels.SWEntities.Resume_Screener_Output",
+        "Hash": "LTk4MzYyMjY3Mw",
+        "AssemblyName": "Resume_Screener_Outp.7uPAO17p9eR1KuScn2eNzZP2"
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "version": "3.0.0.0",
+  "bundleHash": "UDE7vXIsm98XZkkTqI4lkG2Qwr88PDmZhNrk0ak",
+  "addedAssemblyNames": [],
+  "discardedAssemblyNames": [],
+  "discardedAssemblyReplacements": {},
+  "assembliesJitInfo": {
+    "Resume_Screener_Inpu.KEGtM3XCjTE1KhkcC2UKgGi1": {
+      "createdAt": "2025-08-08T15:24:10.3670962+00:00",
+      "providerName": "CustomEntities",
+      "rootNamespace": "UiPath.System.Activities.ViewModels.SWEntities.Resume_Screener_Input.Bundle",
+      "typeNames": [
+        "Resume_Screener_Input"
+      ]
+    },
+    "Resume_Screener_Outp.7uPAO17p9eR1KuScn2eNzZP2": {
+      "createdAt": "2025-08-08T15:24:11.2722697+00:00",
+      "providerName": "CustomEntities",
+      "rootNamespace": "UiPath.System.Activities.ViewModels.SWEntities.Resume_Screener_Output.Bundle",
+      "typeNames": [
+        "Resume_Screener_Output"
+      ]
+    }
+  }
+}
